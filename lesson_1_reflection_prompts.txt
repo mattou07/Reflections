@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was a lot more clearer to see the bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Very efficient as it helps me to restore my code back if I messed up. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The Pros are having a history of when a file was edited along with comments discussing what was changed. By doing it manually we avoid the system saving files at odd times where perhaps something wasn't finished yet. The Cons are some users may not write useful comments and users may not commit at the right times such as having a commit with lots of changes as opposed to something that just has the right size of changes which are logical.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because some files require another file with it such as HTML and CSS files. They need to be saved together so by allowing multiple files in one commit the changed files are placed together in the log.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By using git log you can view all commits made and their ID, dates and the name of who made them. Then git diff can be used to see the differences between any two files you pick
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Very confident as I can pinpoint where I made my mistake and revert back to when it was working and when it broke and compare the two to find what change caused the problem.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I didn't change my terminal but ill be using git to make websites and run projects with my friends
